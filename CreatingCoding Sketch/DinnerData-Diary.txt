@@ -1,0 +1,25 @@
+# Dear Data Diary: Randomized Two-Week Dinner Tracking
+
+| Date | Day | Protein | Carbs | Location | Portion | Extra Notes |
+|------|-----|---------|-------|----------|---------|-------------|
+| Day 1 | Mon | C (Chicken) | R (Rice) | H (Home) | M (Medium) | Grilled chicken breast |
+| Day 2 | Tue | B (Beef) | NS (Noodle Soup) | H (Home) | L (Large) | Beef noodle soup, feeling full |
+| Day 3 | Wed | P (Pork) | R (Rice) | H (Home) | M (Medium) | Stir-fried pork |
+| Day 4 | Thu | F (Fish) | R (Rice) | H (Home) | S (Small) | Steamed fish, light dinner |
+| Day 5 | Fri | E (Egg) | R (Rice) | H (Home) | M (Medium) | Hong Kong-style steam egg |
+| Day 6 | Sat | Various | Various | S (Eat Out) | L (Large) | Restaurant dinner |
+| Day 7 | Sun | C (Chicken) | NS (Noodle Soup) | H (Home) | L (Large) | Chicken noodle soup |
+| Day 8 | Mon | B (Beef) | R (Rice) | H (Home) | M (Medium) | Beef with vegetables |
+| Day 9 | Tue | P (Pork) | NS (Noodle Soup) | H (Home) | L (Large) | Pork noodle soup |
+| Day 10 | Wed | F (Fish) | R (Rice) | H (Home) | M (Medium) | Baked fish |
+| Day 11 | Thu | E (Egg) | NS (Noodle Soup) | H (Home) | S (Small) | Light egg noodle soup |
+| Day 12 | Fri | C (Chicken) | R (Rice) | H (Home) | L (Large) | Roast chicken |
+| Day 13 | Sat | Various | Various | S (Eat Out) | L (Large) | Restaurant dinner |
+| Day 14 | Sun | B (Beef) | NS (Noodle Soup) | H (Home) | M (Medium) | Beef noodle soup |
+
+## Observations
+- 5 different protein types used
+- Consistent mix of rice and noodle soup
+- Two Saturday eat-out meals
+- Portion sizes vary
+- Mostly home-cooked meals
